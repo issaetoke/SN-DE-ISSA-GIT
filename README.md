@@ -1,2 +1,4 @@
 # SN-DE-ISSA-GIT
 "C:\Users\Mitson informatique\Desktop\SN de git Issa etoke"
+Ce projet est un site web simple et dynamique pour un jeu vidéo fictif, comprenant trois pages principales : une page d’accueil, une page de contact et une page de services.
+tout d abord j ai utilise la commande touch pour creer l index HTML contenant les differentes pages Acceuil contact et services.Ensuite j ai utilise git add pour le presauvegarder puis j ai toujours utilise touch pour creer le style Css de cette page de meme pour le script Js. je les ai presauvegarder puis pour les lier j ai utilise la commande checkout pour creer le feature de liaison.Ensuite j ai utilise git commit pour tous les enregistrer definitivement et git bash pour creer un repertoire puis git push pour assurer le transfert du dossier vers github.
